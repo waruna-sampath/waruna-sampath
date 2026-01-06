@@ -60,4 +60,4 @@ Experience in enterprise systems, microservices, and cloud-native architecture.
 ---
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/waruna-sampath
