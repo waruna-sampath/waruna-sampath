@@ -36,9 +36,9 @@ Experience in enterprise systems, microservices, and cloud-native architecture.
 ## ☁️ Tech Stack
 **Backend:** PHP, Java, Spring Boot, Node.js  
 **Frontend:** React (architecture-level)  
-**Cloud:** AWS, Azure  
+**Cloud:** AWS  
 **Databases:** PostgreSQL, MySQL, MongoDB  
-**DevOps:** Docker, Kubernetes, CI/CD  
+**DevOps:** Docker, CI/CD  
 **Architecture:** C4 Model, UML, ADRs  
 
 ---
